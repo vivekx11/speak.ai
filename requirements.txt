@@ -1,0 +1,27 @@
+# Speech Recognition & AI
+vosk==0.3.45
+pyaudio==0.2.13
+Google-generativeai==0.3.0
+gTTS==2.3.2
+pyttsx3==2.90
+
+# Web Framework & APIs
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Audio Processing
+numpy==1.24.3
+scripy==1.11.3
+waveform==1.0.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+colorama==0.4.6
+
+# Testing & Debugging
+python-dev-tools==2022.12.19
+pylint==3.0.0
+black==23.9.0
